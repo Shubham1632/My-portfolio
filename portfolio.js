@@ -281,7 +281,8 @@ export const seoData = {
   description:
     "A passionate Full Stack Web Developer and Blockchain Developer.",
   author: "Shubham Gangurde",
-  image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
+  image:
+    "https://avatars.githubusercontent.com/u/79448312?s=400&u=b82b117233e7267b7a636a16c548920b7af85d10&v=4",
   //   url: "https://developer-portfolio-1hanzla100.vercel.app",
   keywords: ["Shubham", "Shubham Gangurde", "@Shubham1632"],
 };
