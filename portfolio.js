@@ -164,14 +164,15 @@ export const experience = [
   //   {
   //     role: "Software CraftsPerson",
   //     company: "Incubyte",
-  //     companylogo: "/img/icons/common/incubyte.jpg",
+  //     companylogo: "https://raw.githubusercontent.com/Shubham1632/My-portfolio/main/public/img/icons/common/incubyte.jpg",
   //     date: "Jan 2023",
   //     desc: "will be working on React.js and Next.js for the front-end and be working on Nest.Js to build REST APIs",
   //   },
   {
     role: "Project Intern",
     company: "PICT, Pune",
-    companylogo: "/img/icons/common/pict.jpg",
+    companylogo:
+      "https://raw.githubusercontent.com/Shubham1632/My-portfolio/main/public/img/icons/common/pict.jpg",
     date: "Nov 2022 – Present",
     desc: "",
     descBullets: [
@@ -184,7 +185,8 @@ export const experience = [
   {
     role: "Summer Intern",
     company: "Persistent Systems Ltd.",
-    companylogo: "/img/icons/common/persistent.png",
+    companylogo:
+      "https://raw.githubusercontent.com/Shubham1632/My-portfolio/main/public/img/icons/common/persistent.png",
     date: "August 2022 - Oct 2022",
     desc: "",
     descBullets: [
@@ -197,7 +199,8 @@ export const experience = [
   {
     role: "Project Intern",
     company: "Exposys Data Labs",
-    companylogo: "/img/icons/common/exposys.jpg",
+    companylogo:
+      "https://raw.githubusercontent.com/Shubham1632/My-portfolio/main/public/img/icons/common/exposys.jpg",
     date: "March 2022 - May 2022",
     desc: "",
     descBullets: [

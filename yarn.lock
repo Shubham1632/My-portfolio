@@ -7536,6 +7536,11 @@ loose-envify@^1.0.0, loose-envify@^1.1.0, loose-envify@^1.4.0:
   dependencies:
     js-tokens "^3.0.0 || ^4.0.0"
 
+lottie-player@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/lottie-player/-/lottie-player-1.0.0.tgz#6bd11738418e2816bcee5511a67474e22a2d60a8"
+  integrity sha512-XrwIIUCDtA2GJ/yH6Ql3y2m4aqfOHt7HKGyZAfk5BuA0wvU/ahJ/E/ZN5/5PTD7FpTdYLF+k20ZmemLNY58NKg==
+
 lottie-web@^5.1.3, lottie-web@^5.9.6:
   version "5.10.0"
   resolved "https://registry.yarnpkg.com/lottie-web/-/lottie-web-5.10.0.tgz#72563f22efdcf2b8f7e8359743514930ebaf5f8c"
