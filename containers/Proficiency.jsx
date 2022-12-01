@@ -37,7 +37,7 @@ const Proficiency = () => {
 						})}
 					</Col>
 					<Col lg="6">
-						<GreetingLottie animationPath="/lottie/build.json" />
+						<GreetingLottie animationPath="https://raw.githubusercontent.com/Shubham1632/My-portfolio/main/public/lottie/build.json" />
 					</Col>
 				</Row>
 			</Fade>
