@@ -32,7 +32,8 @@ export const skillsSection = {
   data: [
     {
       title: "Blockchain Development",
-      lottieAnimationFile: "/lottie/skills/ethereum.json", // Path of Lottie Animation JSON File
+      lottieAnimationFile:
+        "https://raw.githubusercontent.com/Shubham1632/My-portfolio/main/public/lottie/skills/ethereum.json", // Path of Lottie Animation JSON File
       skills: [
         emoji(
           "⚡ Experience in developing Smart Contract using Solidity & Ethereum"
@@ -75,7 +76,8 @@ export const skillsSection = {
     },
     {
       title: "Full Stack Development",
-      lottieAnimationFile: "/lottie/skills/fullstack.json", // Path of Lottie Animation JSON File
+      lottieAnimationFile:
+        "https://raw.githubusercontent.com/Shubham1632/My-portfolio/main/public/lottie/skills/fullstack.json", // Path of Lottie Animation JSON File
       skills: [
         emoji("⚡ Building responsive Single-Page-Apps (SPA) in React.js"),
         emoji("⚡ Building responsive static websites using Next.js"),
