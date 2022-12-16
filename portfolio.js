@@ -1,7 +1,7 @@
 import emoji from "react-easy-emoji";
 
 export const greetings = {
-  name: "Shubham Gangurde",
+  // name: "Shubham Gangurde",
   title: "Hi all, I'm Shubham",
   description:
     "I'm a final year student @PICT, Pune. A passionate Full Stack web developer and Blockchain Developer having an experience of web applications with React.js, Next.js, Nest.js and Blockchain development on Ethereum, Solidity, ether.js and Hardhat.",
@@ -225,19 +225,19 @@ export const projects = [
       "Removed the interference of a third-party Central Entity to transfer the money by designing a Defi Protocol",
     ],
     github: "https://github.com/Shubham1632/SChange",
-    // link: "https://developer-portfolio-1hanzla100.vercel.app/",
+    link: "https://shubham1632.github.io/schange-full-stack/",
     // youtube: "https://googl.com/",
   },
-  {
-    name: "IpDoc",
-    descBullets: [
-      "Implemented a digital document storing system on InterPlanetory File System (IPFS)",
-      "Made Documents Immutabel by assigning a content addressing to it",
-      "The Documents will be tamper proof and nobody can access or modify the document",
-      "To make sure the availability of document, used third party application called fleet",
-    ],
-    github: "https://github.com/Shubham1632/decetralized_doc",
-  },
+  // {
+  //   name: "IpDoc",
+  //   descBullets: [
+  //     "Implemented a digital document storing system on InterPlanetory File System (IPFS)",
+  //     "Made Documents Immutabel by assigning a content addressing to it",
+  //     "The Documents will be tamper proof and nobody can access or modify the document",
+  //     "To make sure the availability of document, used third party application called fleet",
+  //   ],
+  //   github: "https://github.com/Shubham1632/decetralized_doc",
+  // },
   {
     name: "Certify",
     descBullets: [
