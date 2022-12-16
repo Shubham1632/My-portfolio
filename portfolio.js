@@ -6,7 +6,7 @@ export const greetings = {
   description:
     "I'm a final year student @PICT, Pune. A passionate Full Stack web developer and Blockchain Developer having an experience of web applications with React.js, Next.js, Nest.js and Blockchain development on Ethereum, Solidity, ether.js and Hardhat.",
   resumeLink:
-    "https://drive.google.com/file/d/1SpQXO3emAjY9dkP1XGRfS5RUUiwd4hX3/view?usp=sharing",
+    "https://drive.google.com/file/d/1mJb_OoRIQwOCiFj6ZcKiOz5NS56kRpbf/view?usp=sharing",
 };
 
 export const openSource = {
@@ -163,13 +163,14 @@ export const educationInfo = [
 ];
 
 export const experience = [
-  //   {
-  //     role: "Software CraftsPerson",
-  //     company: "Incubyte",
-  //     companylogo: "https://raw.githubusercontent.com/Shubham1632/My-portfolio/main/public/img/icons/common/incubyte.jpg",
-  //     date: "Jan 2023",
-  //     desc: "will be working on React.js and Next.js for the front-end and be working on Nest.Js to build REST APIs",
-  //   },
+  {
+    role: "Software CraftsPerson",
+    company: "Incubyte",
+    companylogo:
+      "https://raw.githubusercontent.com/Shubham1632/My-portfolio/main/public/img/icons/common/incubyte.jpg",
+    date: "Jan 2023",
+    desc: "will be working on React.js and Next.js for the front-end and be working on Nest.Js to build REST APIs",
+  },
   {
     role: "Project Intern",
     company: "PICT, Pune",
