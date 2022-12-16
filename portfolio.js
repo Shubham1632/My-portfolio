@@ -163,14 +163,14 @@ export const educationInfo = [
 ];
 
 export const experience = [
-  {
-    role: "Software CraftsPerson",
-    company: "Incubyte",
-    companylogo:
-      "https://raw.githubusercontent.com/Shubham1632/My-portfolio/main/public/img/icons/common/incubyte.jpg",
-    date: "Jan 2023",
-    desc: "will be working on React.js and Next.js for the front-end and be working on Nest.Js to build REST APIs",
-  },
+  // {
+  //   role: "Software CraftsPerson",
+  //   company: "Incubyte",
+  //   companylogo:
+  //     "https://raw.githubusercontent.com/Shubham1632/My-portfolio/main/public/img/icons/common/incubyte.jpg",
+  //   date: "Jan 2023",
+  //   desc: "will be working on React.js and Next.js for the front-end and be working on Nest.Js to build REST APIs",
+  // },
   {
     role: "Project Intern",
     company: "PICT, Pune",
