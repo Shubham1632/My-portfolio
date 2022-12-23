@@ -239,6 +239,17 @@ export const projects = [
   //   github: "https://github.com/Shubham1632/decetralized_doc",
   // },
   {
+    name: "FeedPrice",
+    descBullets: [
+      "Developed a chrome extention for continious price feed of important online assests",
+      "Used manifest version 3 (MV3) to build the extention",
+      "Various API's like CoinmMarketCap, CoinBase are used to fetch the data",
+      "Made easy to all inverstors and traders to look at price feed on only a click",
+    ],
+    github: "https://github.com/1hanzla100/Django-ecommerce",
+    link: "https://chrome.google.com/webstore/detail/pricefeed/aohcnddhbappclckfieileicclbpadnk?hl=en-US",
+  },
+  {
     name: "Certify",
     descBullets: [
       "Implemented a certificate generation and verification system on the ethereum blockchain",
@@ -249,14 +260,14 @@ export const projects = [
     github: "https://github.com/Shubham1632/certificate_verification_fullstack",
   },
   {
-    name: "FeedPrice",
+    name: "DAuth",
     descBullets: [
-      "Developed a chrome extention for continious price feed of important online assests",
-      "Used manifest version 3 (MV3) to build the extention",
-      "Various API's like CoinmMarketCap, CoinBase are used to fetch the data",
-      "Made easy to all inverstors and traders to look at price feed on only a click",
+      "Implemented a Decentralized User Identity managment system on ethereum blockchain",
+      "Increased the trust of user by encrypting their data on the blockchain",
+      "Privacy and mutability of users data is protected by an append only, encrypted ledger system",
+      "Used hardhat and solidity to develop a smart contract",
     ],
-    github: "https://github.com/1hanzla100/Django-ecommerce",
+    github: "https://github.com/Shubham1632/Blockchain_SSO",
   },
 ];
 
