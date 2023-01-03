@@ -105,6 +105,20 @@ const SocialLinks = () => {
 					</span>
 				</Button>
 			)}
+			{socialLinks.leetcode && (
+				<Button
+					className="btn-icon-only rounded-circle ml-1"
+					color="#FF5733"
+					rel="noopener"
+					aria-label="Leetcode"
+					href={socialLinks.leetcode}
+					target="_blank"
+				>
+					<span className="btn-inner--icon">
+						<i className="fa fa-code" />
+					</span>
+				</Button>
+			)}
 		</div>
 	);
 };

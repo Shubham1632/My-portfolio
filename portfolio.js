@@ -6,7 +6,7 @@ export const greetings = {
   description:
     "I'm a final year student @PICT, Pune. A passionate Full Stack web developer and Blockchain Developer having an experience of web applications with React.js, Next.js, Nest.js and Blockchain development on Ethereum, Solidity, ether.js and Hardhat.",
   resumeLink:
-    "https://drive.google.com/file/d/1mJb_OoRIQwOCiFj6ZcKiOz5NS56kRpbf/view?usp=sharing",
+    "https://drive.google.com/file/d/1mJ2SKdTQWR69ZT9Jrdvlp4bghcUc1l5-/view?usp=sharing",
 };
 
 export const openSource = {
@@ -23,6 +23,7 @@ export const socialLinks = {
   //   facebook: "https://www.facebook.com/",
   //   twitter: "https://twitter.com/",
   geeksforgeeks: "https://auth.geeksforgeeks.org/user/shubhamgangurde16/",
+  // leetcode: "https://leetcode.com/shubham163/",
 };
 
 export const skillsSection = {
