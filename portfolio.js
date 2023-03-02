@@ -23,7 +23,7 @@ export const socialLinks = {
   //   facebook: "https://www.facebook.com/",
   //   twitter: "https://twitter.com/",
   geeksforgeeks: "https://auth.geeksforgeeks.org/user/shubhamgangurde16/",
-  // leetcode: "https://leetcode.com/shubham163/",
+  leetcode: "https://leetcode.com/shubham163/",
 };
 
 export const skillsSection = {
@@ -36,21 +36,15 @@ export const skillsSection = {
       lottieAnimationFile:
         "https://raw.githubusercontent.com/Shubham1632/My-portfolio/main/public/lottie/skills/ethereum.json", // Path of Lottie Animation JSON File
       skills: [
-        emoji(
-          "⚡ Experience in developing Smart Contract using Solidity & Ethereum"
-        ),
-        emoji(
-          "⚡ Building Scripts for automated testing & deployment of Smart Contracts using Hardhat and Waffle"
-        ),
-        emoji(
-          "⚡ Experience of using Openzeppelin Smart Contract Standards & various Hardhat tools"
-        ),
-        emoji(
-          "⚡ Developing some Defi and Dapps for solving real life problems"
-        ),
-        emoji(
-          "⚡ Building Dapps with React.js/Ether.js & Solidity using Web3.js, Hardhat & IPFS"
-        ),
+        "⚡ Experience in developing Smart Contract using Solidity & Ethereum",
+
+        "⚡ Building Scripts for automated testing & deployment of Smart Contracts using Hardhat",
+
+        "⚡ Experience of using Openzeppelin Smart Contract Standards & various Hardhat tools",
+
+        "⚡ Developing some Defi and Dapps for solving real life problems",
+
+        "⚡ Building Dapps with React.js & Solidity using ether.js, Hardhat & IPFS",
       ],
       softwareSkills: [
         {
@@ -80,9 +74,11 @@ export const skillsSection = {
       lottieAnimationFile:
         "https://raw.githubusercontent.com/Shubham1632/My-portfolio/main/public/lottie/skills/fullstack.json", // Path of Lottie Animation JSON File
       skills: [
-        emoji("⚡ Building responsive Single-Page-Apps (SPA) in React.js"),
-        emoji("⚡ Building responsive static websites using Next.js"),
-        emoji("⚡ Proficient with Node.js "),
+        "⚡ Building responsive Single-Page-Apps (SPA) in React and Angular",
+        "⚡ Building high performing server side application using Micronaut and Nest.js",
+        "⚡ Proficient with Java, typescript and javascript ",
+        "⚡ Building CI/CD pipeline with AWS and Github actions ",
+        "⚡ Following standard development practice like clean coding, TDD and eXtreame programming",
       ],
       softwareSkills: [
         {
@@ -98,21 +94,25 @@ export const skillsSection = {
           fontAwesomeClassname: "logos:javascript",
         },
         {
+          skillName: "TypeScript",
+          fontAwesomeClassname: "logos:typescript",
+        },
+        {
           skillName: "Reactjs",
           fontAwesomeClassname: "vscode-icons:file-type-reactjs",
         },
         {
-          skillName: "Nextjs",
-          fontAwesomeClassname: "vscode-icons:file-type-light-next",
+          skillName: "Angular",
+          fontAwesomeClassname: "vscode-icons:file-type-angular",
         },
 
         {
-          skillName: "Redux",
-          fontAwesomeClassname: "logos:redux",
+          skillName: "micronaut",
+          fontAwesomeClassname: "logos:java",
         },
         {
-          skillName: "NPM",
-          fontAwesomeClassname: "logos:npm-icon",
+          skillName: "tailwindcss",
+          fontAwesomeClassname: "logos:tailwindcss",
         },
         {
           skillName: "Yarn",
@@ -164,28 +164,35 @@ export const educationInfo = [
 ];
 
 export const experience = [
-  // {
-  //   role: "Software CraftsPerson",
-  //   company: "Incubyte",
-  //   companylogo:
-  //     "https://raw.githubusercontent.com/Shubham1632/My-portfolio/main/public/img/icons/common/incubyte.jpg",
-  //   date: "Jan 2023",
-  //   desc: "will be working on React.js and Next.js for the front-end and be working on Nest.Js to build REST APIs",
-  // },
   {
-    role: "Project Intern",
-    company: "PICT, Pune",
+    role: "Software CraftsPerson",
+    company: "Incubyte",
     companylogo:
-      "https://raw.githubusercontent.com/Shubham1632/My-portfolio/main/public/img/icons/common/pict.jpg",
-    date: "Nov 2022 – Present",
+      "https://raw.githubusercontent.com/Shubham1632/My-portfolio/main/public/img/icons/common/incubyte.jpg",
+    date: "Jan 2023 - present",
     desc: "",
     descBullets: [
-      "Developed Project on Certificate verification and generation.",
-      "Changed the conventional way of storing certificate credentials by implementing the process on blockchain",
-      "Certificates are made Tamper-Proof, Secure, and Immutable by using distributed, Append-only ledger system",
-      "Increased the trust of Recruiters by providing a way to validate the certificate",
+      "Developing a Team outing planner for WIP and Retreat",
+      "Using Angular for UI design and Nest.js for developing server side application",
+      "Working with SQL for database integration",
+      "Following standard dev practices like clean coding, TDD, eXtreame programming",
+      "Learning to develop high quality, extensible applications",
     ],
   },
+  // {
+  //   role: "Project Intern",
+  //   company: "PICT, Pune",
+  //   companylogo:
+  //     "https://raw.githubusercontent.com/Shubham1632/My-portfolio/main/public/img/icons/common/pict.jpg",
+  //   date: "Nov 2022 – Present",
+  //   desc: "",
+  //   descBullets: [
+  //     "Developed Project on Certificate verification and generation.",
+  //     "Changed the conventional way of storing certificate credentials by implementing the process on blockchain",
+  //     "Certificates are made Tamper-Proof, Secure, and Immutable by using distributed, Append-only ledger system",
+  //     "Increased the trust of Recruiters by providing a way to validate the certificate",
+  //   ],
+  // },
   {
     role: "Summer Intern",
     company: "Persistent Systems Ltd.",
@@ -200,19 +207,19 @@ export const experience = [
       "Fixed the bug of background animation by configuring the right coordinates to each component",
     ],
   },
-  {
-    role: "Project Intern",
-    company: "Exposys Data Labs",
-    companylogo:
-      "https://raw.githubusercontent.com/Shubham1632/My-portfolio/main/public/img/icons/common/exposys.jpg",
-    date: "March 2022 - May 2022",
-    desc: "",
-    descBullets: [
-      "Worked on a Project to build real-time Video Chatting Application",
-      "Using HTML, CSS, and Javascript build a responsive website that can add callers in run-time",
-      "Reduced the responce time to 100ms by adding support of Agora SDK and API",
-    ],
-  },
+  // {
+  //   role: "Project Intern",
+  //   company: "Exposys Data Labs",
+  //   companylogo:
+  //     "https://raw.githubusercontent.com/Shubham1632/My-portfolio/main/public/img/icons/common/exposys.jpg",
+  //   date: "March 2022 - May 2022",
+  //   desc: "",
+  //   descBullets: [
+  //     "Worked on a Project to build real-time Video Chatting Application",
+  //     "Using HTML, CSS, and Javascript build a responsive website that can add callers in run-time",
+  //     "Reduced the responce time to 100ms by adding support of Agora SDK and API",
+  //   ],
+  // },
 ];
 
 export const projects = [
