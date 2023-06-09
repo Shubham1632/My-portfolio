@@ -6,7 +6,7 @@ export const greetings = {
   description:
     "I'm a final year student @PICT, Pune. A passionate Full Stack web developer and Blockchain Developer having an experience of web applications with React.js, Next.js, Nest.js and Blockchain development on Ethereum, Solidity, ether.js and Hardhat.",
   resumeLink:
-    "https://drive.google.com/file/d/1uO9VNKWK_71gUEs_jPg_txrpHjqFvV9S/view?usp=sharing",
+    "https://drive.google.com/file/d/1HUDIrEz2L2kGyKyV3NAhp84TZ1SYGpnD/view?usp=sharing",
 };
 
 export const openSource = {
@@ -16,14 +16,11 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-  //   url: "https://1hanzla100.github.io/",
   linkedin: "https://www.linkedin.com/in/ShubhamGangurde/",
   github: "https://github.com/Shubham1632",
-  //   instagram: "https://www.instagram.com/",
-  //   facebook: "https://www.facebook.com/",
-  //   twitter: "https://twitter.com/",
   geeksforgeeks: "https://auth.geeksforgeeks.org/user/shubhamgangurde16/",
-  leetcode: "https://leetcode.com/shubham163/",
+  npm: "https://www.npmjs.com/~shubhamgangurde",
+  medium: "https://medium.com/@shubhamgangurde16",
 };
 
 export const skillsSection = {
@@ -172,11 +169,11 @@ export const experience = [
     date: "Jan 2023 - present",
     desc: "",
     descBullets: [
-      "Developing a Team outing planner for WIP and Retreat",
-      "Using Angular for UI design and Nest.js for developing server side application",
-      "Working with SQL for database integration",
-      "Following standard dev practices like clean coding, TDD, eXtreame programming",
-      "Learning to develop high quality, extensible applications",
+      "Developed a team outing planner using Angular and Nest.Js",
+      "Reduced the redundant work of ops teams and automated most of the management",
+      "Developed well tested api by following TDD and concepts of clean coding",
+      "Integrated Azure Active Directory for user authentication and role based authentication",
+      "Integrated Azure Block Sotrage for storing the payment reciepts and documents",
     ],
   },
   // {

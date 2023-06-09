@@ -2,6 +2,7 @@ import React from "react";
 
 import { Button } from "reactstrap";
 
+
 import { socialLinks } from "../portfolio";
 
 const SocialLinks = () => {
@@ -105,17 +106,32 @@ const SocialLinks = () => {
 					</span>
 				</Button>
 			)}
-			{socialLinks.leetcode && (
+			
+			{socialLinks.npm && (
 				<Button
 					className="btn-icon-only rounded-circle ml-1"
-					color="#FF5733"
+					color="white"
 					rel="noopener"
-					aria-label="Leetcode"
-					href={socialLinks.leetcode}
+					aria-label="NPM"
+					href={socialLinks.npm}
 					target="_blank"
 				>
 					<span className="btn-inner--icon">
-						<i className="fa fa-code" />
+					<svg xmlns="http://www.w3.org/2000/svg" height="2em" viewBox="0 0 576 512"><path d="M288 288h-32v-64h32v64zm288-128v192H288v32H160v-32H0V160h576zm-416 32H32v128h64v-96h32v96h32V192zm160 0H192v160h64v-32h64V192zm224 0H352v128h64v-96h32v96h32v-96h32v96h32V192z"/></svg>
+					</span>
+				</Button>
+			)}
+			{socialLinks.medium && (
+				<Button
+					className="btn-icon-only rounded-circle ml-1"
+					color="white"
+					rel="noopener"
+					aria-label="Leetcode"
+					href={socialLinks.medium}
+					target="_blank"
+				>
+					<span className="btn-inner--icon">
+						<i className="fa fa-medium" />
 					</span>
 				</Button>
 			)}
