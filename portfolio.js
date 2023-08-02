@@ -247,6 +247,17 @@ export const projects = [
     link: "https://shubham1632.github.io/schange-full-stack/",
     // youtube: "https://googl.com/",
   },
+  {
+    name: "DAuth",
+    descBullets: [
+      "Implemented a NPM package for Decentralized User Identity managment system on ethereum blockchain",
+      "Increased the trust of user by encrypting their data on the blockchain",
+      "Privacy and mutability of users data is protected by an append only, encrypted ledger system",
+      "Used hardhat and solidity to develop a smart contract",
+    ],
+    github: "https://github.com/Shubham1632/Blockchain_SSO",
+    link: "https://www.npmjs.com/package/dauth-sso",
+  },
   // {
   //   name: "IpDoc",
   //   descBullets: [
@@ -277,17 +288,7 @@ export const projects = [
       "Increased the trust of Recruiters by providing a way to validate the certificate",
     ],
     github: "https://github.com/Shubham1632/certificate_verification_fullstack",
-  },
-  {
-    name: "DAuth",
-    descBullets: [
-      "Implemented a Decentralized User Identity managment system on ethereum blockchain",
-      "Increased the trust of user by encrypting their data on the blockchain",
-      "Privacy and mutability of users data is protected by an append only, encrypted ledger system",
-      "Used hardhat and solidity to develop a smart contract",
-    ],
-    github: "https://github.com/Shubham1632/Blockchain_SSO",
-  },
+  }
 ];
 
 export const feedbacks = [
