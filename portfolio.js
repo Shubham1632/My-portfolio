@@ -123,7 +123,7 @@ export const skillsSection = {
 export const SkillBars = [
   {
     Stack: "Frontend/Design", //Insert stack or technology you have experience in
-    progressPercentage: "60", //Insert relative proficiency in percentage
+    progressPercentage: "80", //Insert relative proficiency in percentage
   },
   {
     Stack: "Backend",
@@ -166,7 +166,21 @@ export const experience = [
     company: "Incubyte",
     companylogo:
       "https://raw.githubusercontent.com/Shubham1632/My-portfolio/main/public/img/icons/common/incubyte.jpg",
-    date: "Jan 2023 - present",
+    date: "June 2023 - present",
+    desc: "",
+    descBullets: [
+      "Developeing a AI based tool for reducing the techical debt of the old leagcy systems",
+      "Implementing OpenAI API's to generate a markdown for codebase with all nessasry UAC",
+      "Storing the vector embeddings of the codebase into qdrant database to implement symentic search",
+      "Learing and implementing good coding practices like clean coding, refactoing, pair programming and eXtream programing"
+    ],
+  },
+  {
+    role: "Software CraftsPerson Intern ",
+    company: "Incubyte",
+    companylogo:
+      "https://raw.githubusercontent.com/Shubham1632/My-portfolio/main/public/img/icons/common/incubyte.jpg",
+    date: "Jan 2023 - June 2023",
     desc: "",
     descBullets: [
       "Developed a team outing planner using Angular and Nest.Js",
