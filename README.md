@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to My-portfolio 👋</h1>
 
-> Software Developer Portfolio Website built with Next.js, bootstrap.
+> Software Developer Portfolio Website built with Next.js, tailwindcss.
 
 ***
 
