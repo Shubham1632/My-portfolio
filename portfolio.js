@@ -4,7 +4,7 @@ export const greetings = {
   // name: "Shubham Gangurde",
   title: "Hi all, I'm Shubham",
   description:
-    "I'm a final year student @PICT, Pune. A passionate Full Stack web developer and Blockchain Developer having an experience of web applications with React.js, Next.js, Nest.js and Blockchain development on Ethereum, Solidity, ether.js and Hardhat.",
+    "I am a Software Developer at Incubyte. Passionante about new age technologies like Blockchain and AI. My experties include LLM's, Solidity, Typescript, Next.js, React, Nest.js etc.",
   resumeLink:
     "https://drive.google.com/file/d/1HUDIrEz2L2kGyKyV3NAhp84TZ1SYGpnD/view?usp=sharing",
 };
