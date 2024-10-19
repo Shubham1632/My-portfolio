@@ -4,9 +4,9 @@ export const greetings = {
   // name: "Shubham Gangurde",
   title: "Hi all, I'm Shubham",
   description:
-    "I am a Software Developer at Incubyte. Passionante about new age technologies like Blockchain and AI. My experties include LLM's, Solidity, Typescript, Next.js, React, Nest.js etc.",
+    "I am a Full Stack Software Developer. Passionante about new age technologies like Blockchain and AI. My experties include LLM's, Solidity, Typescript, Next.js, React, Nest.js, Relatioanl Databases etc.",
   resumeLink:
-    "https://drive.google.com/file/d/1HUDIrEz2L2kGyKyV3NAhp84TZ1SYGpnD/view?usp=sharing",
+    "https://drive.google.com/file/d/1bPdgWq0x4w_aluQqkPAoNqmqTw8fX_oQ/view?usp=sharing",
 };
 
 export const openSource = {
@@ -152,7 +152,7 @@ export const educationInfo = [
     subHeader: "Batchlors of Engineering in Information Technology",
     duration: "August 2019 - May 2023",
     desc: "Studied Computer Science and Programing",
-    grade: "9.5 CGPA",
+    grade: "9.45 CGPA",
     descBullets: [
       "Developed a Certificate verification system for college on ethereum blockchain",
       "Solved 450+ DSA quetions on various platform like leetcode and geeksforgeeks",
@@ -166,7 +166,7 @@ export const experience = [
     company: "Incubyte",
     companylogo:
       "https://raw.githubusercontent.com/Shubham1632/My-portfolio/main/public/img/icons/common/incubyte.jpg",
-    date: "June 2023 - present",
+    date: "June 2023 - Sept 2024",
     desc: "",
     descBullets: [
       "Developeing a AI based tool for reducing the techical debt of the old leagcy systems",
