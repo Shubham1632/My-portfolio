@@ -158,6 +158,17 @@ export const educationInfo = [
       "Solved 450+ DSA quetions on various platform like leetcode and geeksforgeeks",
     ],
   },
+  {
+    schoolName: "Politecnico Di Milano",
+    subHeader: "Msc Computer Science and Engineering (Artificial Intelligence)",
+    duration: "Sept 2024 - Present",
+    desc: "Studying Machine Learning and AI",
+    grade: "-",
+    descBullets: [
+      "Learning about foundation of AI as a Technology.",
+      "Learning to build and train Machine Learning Models.",
+    ],
+  },
 ];
 
 export const experience = [
