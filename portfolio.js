@@ -6,7 +6,7 @@ export const greetings = {
   description:
     "I am a Full Stack Software Developer. Passionante about new age technologies like Blockchain and AI. My experties include LLM's, Solidity, Typescript, Next.js, React, Nest.js, Relatioanl Databases etc.",
   resumeLink:
-    "https://drive.google.com/file/d/1bPdgWq0x4w_aluQqkPAoNqmqTw8fX_oQ/view?usp=sharing",
+    "https://drive.google.com/file/d/1gQ7oqVSDZCXuzRBHKMxfoBnKcwzgda6O/view?usp=sharing",
 };
 
 export const openSource = {
