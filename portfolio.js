@@ -1,5 +1,3 @@
-import emoji from "react-easy-emoji";
-
 export const greetings = {
   // name: "Shubham Gangurde",
   title: "Hi all, I'm Shubham",
@@ -183,7 +181,7 @@ export const experience = [
       "Developeing a AI based tool for reducing the techical debt of the old leagcy systems",
       "Implementing OpenAI API's to generate a markdown for codebase with all nessasry UAC",
       "Storing the vector embeddings of the codebase into qdrant database to implement symentic search",
-      "Learing and implementing good coding practices like clean coding, refactoing, pair programming and eXtream programing"
+      "Learing and implementing good coding practices like clean coding, refactoing, pair programming and eXtream programing",
     ],
   },
   {
@@ -199,6 +197,20 @@ export const experience = [
       "Developed well tested api by following TDD and concepts of clean coding",
       "Integrated Azure Active Directory for user authentication and role based authentication",
       "Integrated Azure Block Sotrage for storing the payment reciepts and documents",
+    ],
+  },
+  {
+    role: "Full Stack Intern",
+    company: "PENGUINPASS SRL",
+    companylogo:
+      "https://raw.githubusercontent.com/Shubham1632/My-portfolio/main/public/img/icons/common/penguinpass_logo.jpg",
+    date: "Nov 2024 - Jan 2025 (Milan, ITA)",
+    desc: "",
+    descBullets: [
+      "Enhanced an Event Management Portal by refactoring the codebase and implementing new, scalable features.",
+      "Developed a multi-platform mobile application from the ground up using React Native, SQLite, and GraphQL.",
+      "Implemented an offline mode for the mobile application addressing network issues and improving performance.",
+      "Optimized a legacy React Native application by resolving critical bugs and integrating new functionalities.",
     ],
   },
   // {
@@ -299,7 +311,7 @@ export const projects = [
       "Increased the trust of Recruiters by providing a way to validate the certificate",
     ],
     github: "https://github.com/Shubham1632/certificate_verification_fullstack",
-  }
+  },
 ];
 
 export const feedbacks = [
